@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=47B1FFFF&height=120&section=header"/>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=47B1FF&center=true&vCenter=true&width=800&lines=Ol%C3%A1+%F0%9F%91%8B%2C+meu+nome+%C3%A9+Eduardo;Sou+desenvolvedor+Front-End%2C+futuro+Full+Stack!" alt="Typing SVG"/></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=47B1FF&center=true&vCenter=true&width=800&lines=Ol%C3%A1+%F0%9F%91%8B%2C+meu+nome+%C3%A9+Eduardo;Sou+desenvolvedor+Full+Stack!" alt="Typing SVG"/></p>
 
 <ul>
     <li>🌱 No momento estou estudando tecnologias back-end como NodeJs, Express, PostgreSQL ...</li>
