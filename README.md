@@ -1,14 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=47B1FFFF&height=120&section=header"/>
-
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=47B1FF&center=true&vCenter=true&width=800&lines=Ol%C3%A1+%F0%9F%91%8B%2C+meu+nome+%C3%A9+Eduardo;Sou+desenvolvedor+Full+Stack!" alt="Typing SVG"/></p>
-
-<ul>
-  <li>❤️ Sou apaixonado por criar soluções para problemas.</li>
-  <li>🚀 Estou sempre em busca de aprender coisas novas e me manter atualizado.</li>
-  <li>💡 Adoro explorar novas ideias e experimentar tecnologias inovadoras.</li>
-  <li>🎯 Meu objetivo é desenvolver aplicativos web de alto desempenho e escaláveis.</li>
-</ul>
-
 <br/>
 
 <div align="center">
